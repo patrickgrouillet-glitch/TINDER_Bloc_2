@@ -1,9 +1,10 @@
-# TINDER_Bloc_2
+# Projet TINDER_Bloc_2
 
-![final project](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?_gl=1*9ifwbs*_ga*MjAzMjYyNjU3Ni4xNzcxNDIzNDY0*_ga_8JE65Q40S6*czE3NzE0MjM0NjQkbzEkZzEkdDE3NzE0MjM2NTIkajU5JGwwJGgw)
+![tinder project](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?_gl=1*9ifwbs*_ga*MjAzMjYyNjU3Ni4xNzcxNDIzNDY0*_ga_8JE65Q40S6*czE3NzE0MjM0NjQkbzEkZzEkdDE3NzE0MjM2NTIkajU5JGwwJGgw)
 
-# Projet_Tinder_Bloc_2
 Enquête sur les expériences de dating de participants des deux sexes
+
+# Data : Speed+Dating+Data.csv
 
 # Etude statistique
       - quelle est la répartition du nombre total de participants en fonction de leur age ?
