@@ -4,7 +4,7 @@
 
 Enquête sur les expériences de dating de participants des deux sexes
 
-# Data : 
+# Data
 
 Speed+Dating+Data.csv
 
