@@ -1,6 +1,6 @@
 # TINDER_Bloc_2
 
-C:\Users\patri\Downloads\pexels-nandhukumar-18175449.jpg"
+!C:\Users\patri\Downloads\pexels-nandhukumar-18175449.jpg"
 
 **Projet_Tinder**_Bloc_2
 Enquête sur les expériences de dating de participants des deux sexes
