@@ -22,7 +22,7 @@ Speed+Dating+Data.csv
                    - ce que les hommes pensent que les femmes recherchent, et ce que recherchent les femmes ?
                    - ce que les femmes pensent que les hommes recherchent, et ce que recherchent les hommes ?
 
-# Proposition :
+# Présentation :
       - graphique sur la répartition du nombre total de participants en fonction de leur age 
       
       - graphique montrant les raisons principales d'inscription pour chaque sexe
